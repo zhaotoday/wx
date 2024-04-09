@@ -7,3 +7,4 @@
 #### 教程
 - [实现微信扫码后关注公众号自动登录](https://www.cnblogs.com/dayang12525/p/17296860.html)
 - [微信扫码关注公众号登录实现过程](https://juejin.cn/post/7235118809605144631)
+- [使用node.js接入微信公众号开发](https://cloud.tencent.com/developer/article/2078690?from=15425)
