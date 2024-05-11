@@ -5,6 +5,7 @@
 - [微信公众平台接口调试工具](https://mp.weixin.qq.com/debug/cgi-bin/apiinfo?t=index&type=%E8%87%AA%E5%AE%9A%E4%B9%89%E8%8F%9C%E5%8D%95&form=%E8%87%AA%E5%AE%9A%E4%B9%89%E8%8F%9C%E5%8D%95%E5%88%9B%E5%BB%BA%E6%8E%A5%E5%8F%A3)
 - [微信登录功能/网站应用微信登录开发指南](https://developers.weixin.qq.com/doc/oplatform/Website_App/WeChat_Login/Wechat_Login.html)
 - [微信支付](https://pay.weixin.qq.com/docs/merchant/products/jsapi-payment/introduction.html)
+- [微信支付API字典概览](https://pay.weixin.qq.com/wiki/doc/apiv3/apis/index.shtml)
 
 #### 教程
 - [实现微信扫码后关注公众号自动登录](https://www.cnblogs.com/dayang12525/p/17296860.html)
